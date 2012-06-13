@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/whirr-cassandra"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/whirr-cli"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/whirr-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/whirr-ganglia"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/whirr-hadoop"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/whirr-hbase"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/whirr-ycsb"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/whirr-zookeeper"/>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>
