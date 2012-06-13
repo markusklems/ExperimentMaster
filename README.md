@@ -1,4 +1,4 @@
-ExperimentMaster -- Getting Started
+ExperimentMaster -- Install
 ================
 1. Download the whirr tarball: `wget https://github.com/downloads/markusklems/ExperimentMaster/whirr-0.8.0-SNAPSHOT.tar.gz`
 2. Extract the tarball `tar xvfz whirr-0.8.0-SNAPSHOT.tar.gz`
@@ -6,3 +6,7 @@ ExperimentMaster -- Getting Started
 4. Clone the ExperimentMaster: `git clone git@github.com:markusklems/ExperimentMaster.git` (contributor) or `git://github.com/markusklems/ExperimentMaster.git` (read only)
 5. Include the whirr modules as projects onto the ExperimentMaster build path.
 6. Boom, you're done.
+
+ExperimentMaster -- Getting Started
+================
+Just execute the kit.edu.aifb.eorg.Client as a Java Application. It runs an experiment batch job.
